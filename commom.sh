@@ -1,5 +1,5 @@
 #!/bin/bash
-source ${GDCJOBBASE}/etl/_bin/common.cfg
+source common.cfg
 
 #调度器开始日期
 export DATA_DATE=$1
